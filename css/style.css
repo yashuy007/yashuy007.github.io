@@ -94,7 +94,7 @@ img {
 }
 
 .project {
-  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0px 1px 0 rgb(0 0 0 / 40%);
   width: 100%;
 }
 
@@ -107,16 +107,11 @@ img {
   letter-spacing: 0.1px;
   text-align: left;
   color: #4a4a4a;
-  padding: 10px 0px 10px 10px;
-  border-top: 1px solid #4a4a4a;
+  padding: 0 20px 20px 20px;
+  /*border-top: 1px solid #4a4a4a;*/
 }
 
-.logo {
-  width: 115px;
-  height: 21.1px;
-  object-fit: contain;
-  padding: 20px;
-}
+
 
 .container {
   /*min-width: 500px;*/
